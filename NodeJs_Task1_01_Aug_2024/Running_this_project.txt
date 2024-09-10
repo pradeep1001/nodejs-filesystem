@@ -1,0 +1,11 @@
+1) First initialize the project by running "npm install express"
+
+2) start running this server, by executing "node server.js"
+
+3) Please head to the Postman tool to create a new file and read the  text files present in "files" directory 
+
+a) Testing the end points
+
+ i)  POST to http://localhost:3000/create-file to create a new file
+ ii) GET to http://localhost:3000/get-files to retrieve all files
+
